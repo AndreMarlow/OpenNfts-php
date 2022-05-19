@@ -1,0 +1,59 @@
+.textes-footer-info {
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 18px;
+    color: #D9DBE1;
+}
+
+.footer-col-name {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 31px;
+}
+
+.accordion-item {
+    background-color: transparent;
+    border-bottom: 1px solid whitesmoke;
+}
+
+.accordion-header {
+    background-color: transparent;
+    color: white;
+}
+
+.accordion-button {
+    background-color: transparent;
+    border: 0px transparent;
+}
+
+.accordion-button:focus {
+    box-shadow: none;
+}
+
+.accordion-button::after {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23ffffff'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
+}
+
+.accordion-button:not(.collapsed) {
+    background-color: transparent;
+}
+
+.last-accordion {
+    border: none;
+}
+
+.footer-link {
+    font-weight: 500;
+font-size: 19.8983px;
+line-height: 31px;
+color: white;
+text-decoration: none;
+}
+
+.footer-link-text {
+    font-weight: 400;
+font-size: 15.4764px;
+line-height: 27px;
+color: #D9DBE1;
+text-decoration: none;
+}

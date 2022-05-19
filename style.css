@@ -1,0 +1,29 @@
+.row {
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 1.5rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    color: white;
+}
+
+body {
+    background: url("img/bodybg.jpg") no-repeat;
+    background-size: cover;
+    font-family: 'Inconsolata', monospace;
+}
+
+.btn-color {
+    border: 0px;
+    border: 2px solid;
+    border-image-slice: 1;
+    border-image-source: linear-gradient(to right, #FF56F6, #B936EE, #3BACE2, #406AFF);
+    background: linear-gradient(92.23deg, #FF56F6 21.43%, #B936EE 50.63%, #3BACE2 100%, #406AFF 117.04%);
+
+}

@@ -1,0 +1,84 @@
+@media screen and (max-width:424px) {
+    .card-media {
+        margin-top: 48px;
+    }
+}
+
+@media screen and (min-width:424px) {
+    .card-media {
+        margin-top: 8px;
+    }
+}
+
+@media screen and (min-width:770px) {
+    .media4 {
+        display: none;
+    }
+}
+
+@media screen and (max-width:769px) {
+
+    .media3 {
+        display: none;
+    }
+}
+
+@media screen and (max-width:770px) {
+    .collections {
+        justify-content: center;
+    }
+
+    .left-cont {
+        align-items: center;
+    }
+
+    .btn-collect {
+        width: 248px;
+    }
+
+    .what-are-info-con {
+        margin-top: -175px;
+    }
+
+    .footer-meida {
+        justify-content: center;
+    }
+
+}
+
+@media screen and (max-width:991px) {
+    .media1 {
+        display: none;
+    }
+
+    .what-are-info-con {
+        margin-top: -125px;
+    }
+
+}
+
+@media screen and (max-width:1199px) {
+    .media2 {
+        display: none;
+    }
+
+    .gr-btn-collections {
+        flex-direction: column;
+        align-items: center;
+        align-content: center;
+    }
+
+    .btn-collect {
+        margin: 49px 0px 0px 0px;
+    }
+}
+
+@media screen and (max-width:1399px) {
+    .med-2 {
+        display: none;
+    }
+
+    .med-info {
+        justify-content: center;
+    }
+}

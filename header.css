@@ -1,0 +1,107 @@
+/* navigation style start */
+
+.header-nav {
+    justify-content: space-around;
+}
+
+.nav-link {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+/* navigation style end */
+
+/* main-information start */
+.left-cont {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.btn-itd {
+    border: 0px;
+    width: 180px;
+    height: 44px;
+    clip-path: polygon(20% 0, 100% 0, 100% 50%, 80% 100%, 0 100%, 0 50%);
+}
+
+.svg-arrow {
+    margin-left: 10px;
+}
+
+#textes {
+    margin-left: 10px;
+    background: linear-gradient(89.89deg, #42A6E3 2.33%, #FF56F6 101.4%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+    padding-top: 10px;
+}
+
+.cards-info {
+    background-color: transparent;
+    display: flex;
+    justify-content: flex-start;
+}
+
+#textes2 {
+    margin-right: 10px;
+    text-align: start;
+}
+
+.line {
+    margin-right: 10px;
+    height: 120px;
+    border: 1px solid rgba(255, 255, 255, 0.26);
+}
+
+/* main-information end */
+
+/* partners-information start */
+
+.parnters-info {
+    display: flex;
+    align-items: center;
+}
+
+/* parnters-information end */
+
+/* fonts style  */
+
+/* nav  */
+.fonts-nav {
+    font-weight: 700;
+    font-size: 19.8983px;
+    line-height: 25px;
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.style-logo-nft {
+    color: #FFFFFF;
+}
+
+/* main-info */
+
+.discover {
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 55px
+}
+
+.discover-info {
+    font-weight: 400;
+    font-size: 26.531px;
+    line-height: 44px;
+}
+
+.fonts-table {
+    font-weight: 400;
+font-size: 39.7965px;
+line-height: 53px;
+}
+
+.fonts-table-2 {
+    font-weight: 400;
+font-size: 17.6873px;
+line-height: 22px;
+}

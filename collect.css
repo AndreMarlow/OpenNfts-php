@@ -1,0 +1,93 @@
+/* collect start */
+.collections {
+    align-items: center;
+    flex-direction: row-reverse;
+}
+
+.gr-btn-collections {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.btn-collect {
+    background: transparent;
+    width: 300px;
+    height: 75px;
+    color: azure;
+    margin: 49px 43px 0px 0px;
+    border-image-slice: 1;
+    border-image-source: linear-gradient(to right, #FF56F6, #B936EE, #3BACE2, #406AFF);
+
+    font-weight: 700;
+    font-size: 26.531px;
+    line-height: 33px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.5);
+}
+
+/* explore-collections start */
+.ex-coll {
+    display: flex;
+    flex-direction: column;
+}
+
+.cards {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    margin-top: -55px;
+}
+
+.icon-card {
+    position: absolute;
+}
+
+.name {
+    margin-top: 175px;
+    text-align: center;
+    font-weight: 500;
+font-size: 24.3201px;
+line-height: 46px;
+}
+
+.canr {
+    text-align: center;
+    padding-left: 12.5px;
+    color: #FFB1EE;
+    font-weight: 400;
+    font-size: 20.1601px;
+    line-height: 46px;
+}
+
+.card-ex-info {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.text-ex-info {
+    text-align: center;
+    font-weight: 600;
+    font-size: 41.6897px;
+    line-height: 63px;
+    margin-bottom: 1px;
+}
+
+.text-ex-foll {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 19.8061px;
+    line-height: 63px;
+}
+
+.btn-fol {
+    color: #ffff;
+    width: 234.84px;
+    height: 50.85px;
+    margin: 0 auto;
+    font-weight: 600;
+font-size: 19.8983px;
+line-height: 25px;
+}
+
+/* explore-collections end */

@@ -1,0 +1,126 @@
+.top-sell-disp {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+}
+
+.top-top-wl {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.top-sel-h {
+    font-weight: 700;
+    font-size: 26.531px;
+    line-height: 33px;
+}
+
+.mon-color {
+    color: #B936EE;
+}
+
+.top-sel-p {
+    text-align: center;
+    font-weight: 400;
+    font-size: 17.6873px;
+    line-height: 25px;
+}
+
+/* next section */
+
+.group-mini-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+}
+
+.mini-card {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+    backdrop-filter: blur(75.8157px);
+    border: 2px solid rgba(255, 255, 255, 0.28);
+    border-radius: 28.5719px;
+}
+
+.carusel-name {
+    margin: 10px 0px 0px 0px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 19.0479px;
+    line-height: 44px;
+}
+
+.carusel-col {
+    margin: 0px 0px 5px 0px;
+    font-weight: 500;
+    font-size: 13.7568px;
+    line-height: 44px;
+}
+
+.profit {
+    margin: 10px 0px 5px 0px;
+    width: 100.6px;
+    height: 35.37px;
+    border: 2px solid green;
+    background: rgba(0, 179, 71, 0.15);
+    border-radius: 17.5283px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 3px;
+    color: #00FF66;
+    font-weight: 500;
+    font-size: 14.7012px;
+    line-height: 47px;
+}
+
+.carousel-indicators {
+    margin-bottom: -2rem;
+    margin-left: 15%;
+}
+
+/* what nft  */
+
+.cont-what-padd {
+    padding: 0px;
+}
+
+.what-are-info-con {
+    margin-top: -140px;
+    backdrop-filter: blur(145.603px);
+    border-radius: 2.88322px;
+}
+
+.what-are-info-con h5 {
+    font-weight: 800;
+font-size: 44.5093px;
+line-height: 60px;
+}
+
+.what-are-info-con p {
+    font-weight: 400;
+font-size: 20.0292px;
+line-height: 36px;
+}
+
+.what-are-info {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.link {
+    margin-right: 7px;
+    font-weight: 500;
+    font-size: 17.8037px;
+    line-height: 27px;
+    font-feature-settings: 'salt'on, 'liga'off;
+    color: #FFFFFF;
+    text-decoration: none;
+}
