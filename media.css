@@ -1,3 +1,9 @@
+@media screen and (max-width:325px) {
+        #textes {
+            margin-left: 5px;
+        }
+}
+
 @media screen and (max-width:424px) {
     .card-media {
         margin-top: 48px;
